@@ -1,5 +1,4 @@
 
 public class TestClass {
-//change 2
-//change 3 - master
+// after branch 1 merge - master
 }
